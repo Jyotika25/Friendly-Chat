@@ -17,3 +17,7 @@ Google sign in
 
 ### SNAPSHOTS
 
+<img src="ss1.png" width = 350 height = 450>
+<br>
+<br>
+<img src="ss2.png" width = 350 height = 450>
