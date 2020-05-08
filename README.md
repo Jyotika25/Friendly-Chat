@@ -5,9 +5,15 @@ An android basic chat app to :-
 
 2. images 
 
-3. message being stored in firebase.
+3. message being stored in<b> firebase.</b>
+
+4. Login and LogOut options
+
+5. Simple yet effective UI
 
 ## Sign in method
 
 Google sign in
+
+### SNAPSHOTS
 
